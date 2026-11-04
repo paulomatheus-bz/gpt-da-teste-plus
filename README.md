@@ -1,12 +1,12 @@
 <div align="center">
 
-## GPT — Teste Plus
+# GPT — Teste Plus
 
-**Repositório de documentação para experimentos e validações com IA.**
+<p>Espaço de testes com inteligência artificial.</p>
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-10A37F?style=flat-square&labelColor=111827) ![IA](https://img.shields.io/badge/IA-10A37F?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-10A37F?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-<sub>EXPERIMENTO IA · PAULO MATHEUS</sub>
+<sub>PROJETO · PAULO MATHEUS</sub>
 
 </div>
 
