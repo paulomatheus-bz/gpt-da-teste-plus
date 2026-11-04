@@ -1,12 +1,12 @@
 <div align="center">
 
-<sub>PROJETOS WEB</sub>
+## GPT — Teste Plus
 
-<h1>GPT — Teste Plus</h1>
+**Repositório de documentação para experimentos e validações com IA.**
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-10A37F?style=flat-square&labelColor=111827) ![IA](https://img.shields.io/badge/IA-10A37F?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-10A37F?style=flat-square&labelColor=111827)
 
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
+<sub>EXPERIMENTO IA · PAULO MATHEUS</sub>
 
 </div>
 
