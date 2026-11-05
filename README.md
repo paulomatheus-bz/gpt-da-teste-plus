@@ -9,3 +9,6 @@ Os testes ainda não foram reunidos em uma aplicação reproduzível. Este espa�
 ## Linguagens
 
 Ainda não há código-fonte versionado neste repositório; o GitHub não tem linguagens para exibir.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
