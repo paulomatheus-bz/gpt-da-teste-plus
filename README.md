@@ -1,7 +1,18 @@
 # GPT — Teste Plus
 
-Espaço para registrar experimentos com ferramentas de inteligência artificial.
+<p>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-Os testes ainda não formam uma aplicação pronta ou uma integração oficial. Quando um experimento for adicionado, vale anotar como reproduzi-lo e o que foi observado. Não coloque chaves de API, senhas ou dados pessoais nos arquivos.
+<p><sub>Tecnologias previstas para implementação.</sub></p>
+Uso este repositório para registrar testes e anotações sobre ferramentas de inteligência artificial.
+
+## Como pretendo organizar os testes
+
+Cada experimento deve explicar o que estou avaliando, quais passos usei e o que aconteceu. Assim, consigo repetir o teste depois e comparar resultados sem depender da memória.
+
+Não armazeno chaves de API, senhas ou dados pessoais nos exemplos. Até o momento, o repositório é composto por documentação em Markdown; ainda não há uma aplicação pronta ou integração oficial.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
