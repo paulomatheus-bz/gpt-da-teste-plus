@@ -6,7 +6,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Uso este repositório para registrar testes e anotações sobre ferramentas de inteligência artificial.
 
 ## Como pretendo organizar os testes
