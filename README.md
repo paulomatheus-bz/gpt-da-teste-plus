@@ -1,8 +1,6 @@
-<div align="center">
-
 # GPT — Teste Plus
 
-*Uso este repositório para registrar testes e anotações sobre ferramentas de inteligência artificial.*
+> Uso este repositório para registrar testes e anotações sobre ferramentas de inteligência artificial.
 
 <p>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
@@ -10,7 +8,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-</div>
+
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Como pretendo organizar os testes
