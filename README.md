@@ -1,6 +1,6 @@
 # GPT — Teste Plus
 
-> Caderno de testes e anotações sobre ferramentas de inteligência artificial.
+> Anotações e testes com ferramentas de inteligência artificial.
 
 <p>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
@@ -8,8 +8,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-Repositório para registrar testes e anotações sobre ferramentas de inteligência artificial. Cada registro deve incluir o objetivo, os passos e o resultado, para que o experimento possa ser repetido.
+Anotações em Markdown sobre testes de ferramentas de IA. Cada registro pode incluir o que foi testado, como repetir o teste e o resultado.
 
-Até o momento, há documentação em Markdown, sem aplicação ou integração oficial. Não inclua chaves, senhas ou dados pessoais nos exemplos.
+Não há aplicação ou integração oficial neste repositório. Não coloque senhas, chaves de API ou dados pessoais nos exemplos.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
