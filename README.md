@@ -12,4 +12,9 @@ Anotações em Markdown sobre testes de ferramentas de IA. Cada registro pode in
 
 Não há aplicação ou integração oficial neste repositório. Não coloque senhas, chaves de API ou dados pessoais nos exemplos.
 
+
+## Registro de experimentos
+
+Repositório dedicado à documentação de testes e aprendizados, sem representar um produto ou integração oficial.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
